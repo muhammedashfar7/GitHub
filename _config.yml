@@ -1,5 +1,6 @@
 layout: sidebar
 style: light
+baseurl: ""
 
 plugins:
   - jekyll-octicons
